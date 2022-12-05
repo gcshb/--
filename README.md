@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -39,7 +39,7 @@
     </style>
 </head>
 <body>
-    <h1><i>夏虫设计</i></h1>
+    <h1><i>彬</i></h1>
 	<div class="box"></div>
     <canvas id="heart"></canvas>
 	
